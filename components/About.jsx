@@ -4,7 +4,7 @@ export default function About() {
   return (
     <div>
         <div className="about flex flex-col gap-3 lg:w-3/4 font-medium">
-            <h1 className="font-bold text-2xl md:text-3xl">About</h1>
+            <h3 className="font-bold text-2xl md:text-3xl">About</h3>
             <p className="text-xl mt-2">
               I&apos;m a Undergraduate student in Physics who is curious to explore
               web technologies and also build Blazing Websites. Also curious to

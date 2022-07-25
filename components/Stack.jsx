@@ -4,7 +4,7 @@ export default function Stack({isActive}) {
   return (
     <section className='flex flex-col gap-8'>
         <div className="flex flex-col">
-            <h1 className="font-bold text-2xl md:text-3xl">Languages known</h1>
+            <h5 className="font-bold text-2xl md:text-3xl">Languages known</h5>
 
             <div className="flex">
               <ul className="linguals flex flex-col gap-3 font-medium border-opacity-25 text-xl mt-5 border-r-2 border-r-gray-300 pr-2 sm:pr-5">
@@ -27,7 +27,7 @@ export default function Stack({isActive}) {
 
 
           <div className="flex flex-col now lg:w-3/4">
-            <h1 className="text-2xl font-bold md:text-3xl">Now</h1>
+            <h5 className="text-2xl font-bold md:text-3xl">Now</h5>
             <p className="font-medium text-xl tracking-tight mt-4">
               Focused on{" "}
               <span className="font-semibold italic">
@@ -49,7 +49,7 @@ export default function Stack({isActive}) {
 
 
           <div className="stack flex flex-col">
-            <h1 className="text-2xl font-bold md:text-3xl">My Tech Stack</h1>
+            <h5 className="text-2xl font-bold md:text-3xl">My Tech Stack</h5>
 
             <ul className="flex flex-col gap-3 font-medium mt-5 text-xl">
               <li>HTML + CSS</li>

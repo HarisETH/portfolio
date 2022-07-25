@@ -4,7 +4,7 @@ export default function Connect() {
   return (
     <div>
         <div className="connect flex flex-col">
-            <h1 className="text-2xl font-bold">Connect</h1>
+            <h3 className="text-2xl font-bold">Connect</h3>
 
             <p className="text-xl font-medium mt-5">
               You can contact me for projects via{` `}
