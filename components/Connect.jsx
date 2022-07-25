@@ -7,7 +7,7 @@ export default function Connect() {
             <h1 className="text-2xl font-bold">Connect</h1>
 
             <p className="text-xl font-medium mt-5">
-              You can contact me for projects via{" "}
+              You can contact me for projects via{` `}
               <a target="_blank" rel='noreferrer noopener'
                 href="mailto:hariskumar.eth@gmail.com"
                 className={`text-blue-500`}
@@ -22,15 +22,15 @@ export default function Connect() {
                 href="https://www.instagram.com/four39_codes"
                 className="text-blue-500"
               >
-                {" "}
+                {` `}
                 Instagram
-              </a>{" "}
+              </a>{` `}
               and
               <a target="_blank" rel='noreferrer noopener'
                 href="https://www.twitter.com/haris_eth"
                 className="text-blue-500"
               >
-                {" "}
+                {` `}
                 Twitter
               </a>
             </p>
