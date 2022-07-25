@@ -46,7 +46,7 @@ export default function Home() {
     >
       <Head>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-        <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon" />
+        <link rel="icon" href="https://raw.githubusercontent.com/HarisETH/portfolio/main/public/favicon.ico" type="image/x-icon" />
         <title>Haris Kumar - Portfolio</title>
         <meta name="title" content="Haris Kumar - Portfolio" />
         <meta
@@ -61,22 +61,22 @@ export default function Home() {
         <meta name="language" content="en-us" />
 
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://metatags.io/" />
+        <meta property="og:url" content="https://haris.one/" />
         <meta property="og:title" content="Haris Kumar - Portfolio" />
         <meta
           property="og:description"
           content="I'm Haris Kumar , Founder of Four39 . I'm a Web Developer, UG in Physics, Crypto Enthusiast, Educational Content Creator, Indie Maker This is the Portfolio of Haris Kumar . haris.one"
         />
-        <meta property="og:image" content="/meta-img.png" />
+        <meta property="og:image" content="https://raw.githubusercontent.com/HarisETH/portfolio/main/public/meta-img.png" />
 
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://metatags.io/" />
+        <meta property="twitter:url" content="https://haris.one/" />
         <meta property="twitter:title" content="Haris Kumar - Portfolio" />
         <meta
           property="twitter:description"
           content="I'm Haris Kumar , Founder of Four39 . I'm a Web Developer, UG in Physics, Crypto Enthusiast, Educational Content Creator, Indie Maker This is the Portfolio of Haris Kumar . haris.one"
         />
-        <meta property="twitter:image" content="/meta-img.png" />
+        <meta property="twitter:image" content="https://raw.githubusercontent.com/HarisETH/portfolio/main/public/meta-img.png" />
       </Head>
 
       <Nav isActive={isActive} scroll={scroll}></Nav>
