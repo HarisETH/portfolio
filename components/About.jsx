@@ -6,7 +6,7 @@ export default function About() {
         <div className="about flex flex-col gap-3 lg:w-3/4 font-medium">
             <h1 className="font-bold text-2xl md:text-3xl">About</h1>
             <p className="text-xl mt-2">
-              I'm a Undergraduate student in Physics who is curious to explore
+              I&#39m a Undergraduate student in Physics who is curious to explore
               web technologies and also build Blazing Websites. Also curious to
               explore the Web3 world . Also Interested in Crypto, De-Fi.
             </p>
@@ -16,21 +16,21 @@ export default function About() {
                 className="text-blue-500 hover:text-blue-700 "
                 href="https://instagram.com/four39_codes"
               >
-              {``}Instagram
+              {` `}Instagram
               </a>
-            {``}and in Twitter at
+            {` `}and in Twitter at
               <a
                 className="text-blue-500 hover:text-blue-700 "
                 href="https://www.twitter.com/Haris_Eth"
               >
-              {``}@Haris_ETH
+              {` `}@Haris_ETH
               </a>
-            {``}and
+            {` `}and
               <a
                 className="text-blue-500 hover:text-blue-700 "
                 href="https://www.twitter.com/four39_codes"
               >
-              {``}@Four39_Codes
+              {` `}@Four39_Codes
               </a>
               .
             </p>
