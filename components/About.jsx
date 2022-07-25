@@ -8,24 +8,24 @@ export default function About() {
             <p className="text-xl mt-2">
               I'm a Undergraduate student in Physics who is curious to explore
               web technologies and also build Blazing Websites. Also curious to
-              explore the Web3 world . Also Interested in Crypto, De-Fi.{" "}
+              explore the Web3 world . Also Interested in Crypto, De-Fi.
             </p>
             <p className="text-xl mt-5">
-              I live in Chennai, IN . Creating educational content in{" "}
+              I live in Chennai, IN . Creating educational content in
               <a
                 className="text-blue-500 hover:text-blue-700 "
                 href="https://instagram.com/four39_codes"
               >
                 Instagram
-              </a>{" "}
-              and in Twitter at{" "}
+              </a>
+              and in Twitter at
               <a
                 className="text-blue-500 hover:text-blue-700 "
                 href="https://www.twitter.com/Haris_Eth"
               >
                 @Haris_ETH
-              </a>{" "}
-              and{" "}
+              </a>
+              and
               <a
                 className="text-blue-500 hover:text-blue-700 "
                 href="https://www.twitter.com/four39_codes"

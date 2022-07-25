@@ -8,7 +8,7 @@ export default function Connect() {
 
             <p className="text-xl font-medium mt-5">
               You can contact me for projects via{" "}
-              <a
+              <a target="_blank" rel='noreferrer noopener'
                 href="mailto:hariskumar.eth@gmail.com"
                 className={`text-blue-500`}
               >
@@ -18,7 +18,7 @@ export default function Connect() {
 
             <p className="text-xl font-medium mt-3">
               Connect with me on
-              <a
+              <a target="_blank" rel='noreferrer noopener'
                 href="https://www.instagram.com/four39_codes"
                 className="text-blue-500"
               >
@@ -26,7 +26,7 @@ export default function Connect() {
                 Instagram
               </a>{" "}
               and
-              <a
+              <a target="_blank" rel='noreferrer noopener'
                 href="https://www.twitter.com/haris_eth"
                 className="text-blue-500"
               >
@@ -38,7 +38,7 @@ export default function Connect() {
             <div className="flex gap-4 md:gap-8 text-xl font-medium   mt-6 ml-px">
               <a
                 href="https://links.haris.one"
-                target="_blank"
+                target="_blank" rel='noreferrer noopener'
                 className="hover:text-blue-600 flex items-center text-xl italic"
               >
                 Links
@@ -49,17 +49,17 @@ export default function Connect() {
                   viewBox="0 0 24 24"
                   fill="none"
                   stroke="currentColor"
-                  stroke-width="1.2"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  class="feather feather-arrow-up-right"
+                  strokeWidth="1.2"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  className="feather feather-arrow-up-right"
                 >
                   <line x1="7" y1="17" x2="17" y2="7"></line>
                   <polyline points="7 7 17 7 17 17"></polyline>
                 </svg>
               </a>
 
-              <a
+              <a target="_blank" rel='noreferrer noopener'
                 href="https://www.github.com/HarisETH"
                 className="hover:text-blue-600 flex items-center text-xl italic"
               >
@@ -71,10 +71,10 @@ export default function Connect() {
                   viewBox="0 0 24 24"
                   fill="none"
                   stroke="currentColor"
-                  stroke-width="1.2"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  class="feather feather-arrow-up-right"
+                  strokeWidth="1.2"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  className="feather feather-arrow-up-right"
                 >
                   <line x1="7" y1="17" x2="17" y2="7"></line>
                   <polyline points="7 7 17 7 17 17"></polyline>

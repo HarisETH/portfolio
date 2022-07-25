@@ -1,5 +1,4 @@
 import Head from "next/head";
-import Image from "next/image";
 import { useState, useEffect } from "react";
 import About from "../components/About";
 import Skills from "../components/Skills";
@@ -7,7 +6,6 @@ import Stack from "../components/Stack";
 import Connect from "../components/Connect";
 import Nav from "../components/Nav";
 import Footer from "../components/Footer";
-import ReactAudioPlayer from "react-audio-player";
 
 export default function Home() {
   const [isActive, toggler] = useState(true);
@@ -46,7 +44,6 @@ export default function Home() {
     >
       <Head>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-        <link rel="shortcut icon" href="https://raw.githubusercontent.com/HarisETH/portfolio/main/public/favicon.svg" type="image/x-icon" />
         <title>Haris Kumar - Portfolio</title>
         <meta name="title" content="Haris Kumar - Portfolio" />
         <meta
@@ -57,7 +54,7 @@ export default function Home() {
           name="keywords"
           content="four39, four39codes, four39 codes, four39 instagram, four39 twitter,Haris.one, Haris one, four39 web, four39.one, four39 web development, four39 haris, haris, frontend web developer, #four39, @four39Codes, haris one, haris kumar, haris kumar portfolio , Haris_ETH "
         />
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
         <meta name="language" content="en-us" />
 
         <meta property="og:type" content="website" />
