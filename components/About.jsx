@@ -6,7 +6,7 @@ export default function About() {
         <div className="about flex flex-col gap-3 lg:w-3/4 font-medium">
             <h1 className="font-bold text-2xl md:text-3xl">About</h1>
             <p className="text-xl mt-2">
-              I&#39;m a Undergraduate student in Physics who is curious to explore
+              I&apos;m a Undergraduate student in Physics who is curious to explore
               web technologies and also build Blazing Websites. Also curious to
               explore the Web3 world . Also Interested in Crypto, De-Fi.
             </p>
