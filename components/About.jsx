@@ -16,21 +16,21 @@ export default function About() {
                 className="text-blue-500 hover:text-blue-700 "
                 href="https://instagram.com/four39_codes"
               >
-                {` `}Instagram
+              {``}Instagram
               </a>
-              {` `}and in Twitter at
+            {``}and in Twitter at
               <a
                 className="text-blue-500 hover:text-blue-700 "
                 href="https://www.twitter.com/Haris_Eth"
               >
-                {` `}@Haris_ETH
+              {``}@Haris_ETH
               </a>
-              {` `}and
+            {``}and
               <a
                 className="text-blue-500 hover:text-blue-700 "
                 href="https://www.twitter.com/four39_codes"
               >
-               {` `}@Four39_Codes
+              {``}@Four39_Codes
               </a>
               .
             </p>
