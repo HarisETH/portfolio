@@ -46,7 +46,7 @@ export default function Home() {
     >
       <Head>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-        <link rel="icon" href="https://raw.githubusercontent.com/HarisETH/portfolio/main/public/favicon.svg" type="image/x-icon" />
+        <link rel="shortcut icon" href="https://raw.githubusercontent.com/HarisETH/portfolio/main/public/favicon.svg" type="image/x-icon" />
         <title>Haris Kumar - Portfolio</title>
         <meta name="title" content="Haris Kumar - Portfolio" />
         <meta
