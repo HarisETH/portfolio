@@ -6,13 +6,13 @@ export default function Stack({isActive}) {
         <div className="flex flex-col">
             <h5 className="font-bold text-2xl md:text-3xl">Languages known</h5>
 
-            <div className="flex">
-              <ul className="linguals flex flex-col gap-3 font-medium border-opacity-25 text-xl mt-5 border-r-2 border-r-gray-300 pr-2 sm:pr-5">
+            <div className="flex w-full ">
+              <ul className="linguals w-1/2 flex flex-col gap-3 font-medium border-opacity-25 text-xl mt-5 border-r-2 border-r-gray-300 pr-2 sm:pr-5">
                 <li>Tamil</li>
                 <li>English</li>
-                <li>
+                {/* <li>
                   Hindi <span className='opacity-40'>(in Progress)</span>
-                </li>
+                </li> */}
               </ul>
 
               <ul className="progLangs flex flex-col gap-3 font-medium text-xl mt-5 ml-3 sm:ml-5">
@@ -35,6 +35,10 @@ export default function Stack({isActive}) {
               </span>
               . Learning to work carefully and methodically. Mindful of my time
               so that I can produce quality work and feel productive.
+            </p>
+
+            <p className="font-medium text-xl tracking-tight mt-4">
+              Pursuing Under Graduate degree in Physics also building products and bootstrapping my tiny startup.
             </p>
 
             <p className="font-medium text-xl tracking-tight mt-4">

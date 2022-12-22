@@ -48,11 +48,11 @@ export default function Home() {
         <meta name="title" content="Haris Kumar - Portfolio" />
         <meta
           name="description"
-          content="I'm Haris Kumar , Founder of Four39 . I'm a Web Developer, UG in Physics, Crypto Enthusiast, Educational Content Creator, Indie Maker This is the Portfolio of Haris Kumar . haris.one"
+          content="I'm Haris Kumar, based in Chennai. I Pursue a UG degree in Physics and also a  Frontend Web Developer by Hobby. "
         />
         <meta
           name="keywords"
-          content="four39, four39codes, four39 codes, four39 instagram, four39 twitter,Haris.one, Haris one, four39 web, four39.one, four39 web development, four39 haris, haris, frontend web developer, #four39, @four39Codes, haris one, haris kumar, haris kumar portfolio , Haris_ETH "
+          content="haris kumar, frontend web developer in chennai, web developer, haris.eth, haris kumar instagram, web development, hariskumar.eth"
         />
         <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
         <meta name="language" content="en-us" />
@@ -62,7 +62,7 @@ export default function Home() {
         <meta property="og:title" content="Haris Kumar - Portfolio" />
         <meta
           property="og:description"
-          content="I'm Haris Kumar , Founder of Four39 . I'm a Web Developer, UG in Physics, Crypto Enthusiast, Educational Content Creator, Indie Maker This is the Portfolio of Haris Kumar . haris.one"
+          content="I'm Haris Kumar, based in Chennai. I Pursue a UG degree in Physics and also a  Frontend Web Developer by Hobby. "
         />
         <meta property="og:image" content="https://raw.githubusercontent.com/HarisETH/portfolio/main/public/meta-img.png" />
 
@@ -71,7 +71,7 @@ export default function Home() {
         <meta property="twitter:title" content="Haris Kumar - Portfolio" />
         <meta
           property="twitter:description"
-          content="I'm Haris Kumar , Founder of Four39 . I'm a Web Developer, UG in Physics, Crypto Enthusiast, Educational Content Creator, Indie Maker This is the Portfolio of Haris Kumar . haris.one"
+          content="I'm Haris Kumar, based in Chennai. I Pursue a UG degree in Physics and also a  Frontend Web Developer by Hobby. "
         />
         <meta property="twitter:image" content="https://raw.githubusercontent.com/HarisETH/portfolio/main/public/meta-img.png" />
       </Head>
