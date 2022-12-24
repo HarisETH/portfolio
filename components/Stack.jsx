@@ -42,7 +42,7 @@ export default function Stack({isActive}) {
             </p>
 
             <p className="font-medium text-xl tracking-tight mt-4">
-              Learning by Building using tradiitional and latest Web technologies to further enhance my developer
+              Learning by Building using traditional and latest Web technologies to further enhance my developer
               skills and deliver worthy content to my audience.
             </p>
 
